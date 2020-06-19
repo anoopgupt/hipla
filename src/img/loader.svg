@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; background: #00000000; display: block; shape-rendering: auto;" width="100px" height="100px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<path d="M20 25L80 25L80 75L20 75Z" stroke-width="3"></path><path d="M 50 25 L 80 25 L 80 75 L 50 75" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <animate attributeName="d" dur="1s" repeatCount="indefinite" begin="0s" keyTimes="0;0.5;0.501;1" values="M50 25L80 25L80 75L50 75;M50 25L50 20L50 80L50 75;M50 25L80 25L80 75L50 75;M50 25L80 25L80 75L50 75"></animate>
+  <animate attributeName="opacity" dur="1s" repeatCount="indefinite" begin="0s" keyTimes="0;0.5;0.5001;1" values="1;1;0;0"></animate>
+</path><path d="M 50 25 L 76.6809 24.4468 L 76.6809 75.5532 L 50 75" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <animate attributeName="d" dur="1s" repeatCount="indefinite" begin="-0.166s" keyTimes="0;0.5;0.501;1" values="M50 25L80 25L80 75L50 75;M50 25L50 20L50 80L50 75;M50 25L80 25L80 75L50 75;M50 25L80 25L80 75L50 75"></animate>
+  <animate attributeName="opacity" dur="1s" repeatCount="indefinite" begin="-0.166s" keyTimes="0;0.5;0.5001;1" values="1;1;0;0"></animate>
+</path><path d="M 50 25 L 66.8409 22.8068 L 66.8409 77.1932 L 50 75" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <animate attributeName="d" dur="1s" repeatCount="indefinite" begin="-0.33s" keyTimes="0;0.5;0.501;1" values="M50 25L80 25L80 75L50 75;M50 25L50 20L50 80L50 75;M50 25L80 25L80 75L50 75;M50 25L80 25L80 75L50 75"></animate>
+  <animate attributeName="opacity" dur="1s" repeatCount="indefinite" begin="-0.33s" keyTimes="0;0.5;0.5001;1" values="1;1;0;0"></animate>
+</path><path d="M 50 25 L 20 25 L 20 75 L 50 75" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <animate attributeName="d" dur="1s" repeatCount="indefinite" begin="-0.33s" keyTimes="0;0.499;0.5;1" values="M50 25L20 25L20 75L50 75;M50 25L20 25L20 75L50 75;M50 25L50 20L50 80L50 75;M50 25L20 25L20 75L50 75"></animate>
+  <animate attributeName="opacity" dur="1s" repeatCount="indefinite" begin="-0.33s" keyTimes="0;0.4999;0.5;1" values="0;0;1;1"></animate>
+</path><path d="M 50 25 L 20 25 L 20 75 L 50 75" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <animate attributeName="d" dur="1s" repeatCount="indefinite" begin="-0.166s" keyTimes="0;0.499;0.5;1" values="M50 25L20 25L20 75L50 75;M50 25L20 25L20 75L50 75;M50 25L50 20L50 80L50 75;M50 25L20 25L20 75L50 75"></animate>
+  <animate attributeName="opacity" dur="1s" repeatCount="indefinite" begin="-0.166s" keyTimes="0;0.4999;0.5;1" values="0;0;1;1"></animate>
+</path><path d="M 50 25 L 26.6409 23.8932 L 26.6409 76.1068 L 50 75" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <animate attributeName="d" dur="1s" repeatCount="indefinite" begin="0s" keyTimes="0;0.499;0.5;1" values="M50 25L20 25L20 75L50 75;M50 25L20 25L20 75L50 75;M50 25L50 20L50 80L50 75;M50 25L20 25L20 75L50 75"></animate>
+  <animate attributeName="opacity" dur="1s" repeatCount="indefinite" begin="0s" keyTimes="0;0.4999;0.5;1" values="0;0;1;1"></animate>
+</path>
+</svg>

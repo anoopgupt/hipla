@@ -16,21 +16,23 @@ import {BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
 function App() {
   return (
     <div className="main">
-      <Router>
-        <Route exact path="/" >
+      <Header />
+      <SideBar />
+      {/* <Router> */}
+        {/* <Route exact path="/signin" >
           <SignIn />  
         </Route>
         <Route exact path="/signup">
           <SignUp />
-        </Route>
-        <Route exact path="/header">
+        </Route> */}
+        {/* <Route exact path="/">
           <Header />
-        </Route>
+        </Route> */}
 
         {/* <Route exact path="/dashboard">
           <Dashboard />
         </Route> */}
-      </Router>
+      {/* </Router> */}
         
     </div>
   );
